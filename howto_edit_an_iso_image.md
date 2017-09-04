@@ -1,4 +1,4 @@
-# How to edit an ISO file
+# How to edit an ISO image file
 
 Sometimes, it necessary to edit ISO files, and this can be done as follows.
 
