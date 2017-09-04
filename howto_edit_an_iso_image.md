@@ -13,8 +13,12 @@ then modify copy
 	cp -rvf tmp tmp_new
 
 now do a modification
+
 	touch tmp_new/readme.txt
+
 and recreate the iso:
+
 	sudo mkisofs -o example_new.iso tmp_new
+
 that is it!
 
